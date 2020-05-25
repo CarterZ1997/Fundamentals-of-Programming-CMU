@@ -1,1 +1,1 @@
-# Class1
+# Class in CMU
